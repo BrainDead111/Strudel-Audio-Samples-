@@ -1,5 +1,8 @@
-{
-  "samples": {
-  }
-}
+samples({
+  bass: 'https://raw.githubusercontent.com/BrainDead111/Strudel-Audio-Samples-/main/31967__marvman__funk-bass-edit.wav',
+  laser: 'https://raw.githubusercontent.com/BrainDead111/Strudel-Audio-Samples-/main/414888__lilmati__retro-laser-shot-04.wav',
+  clap: 'https://raw.githubusercontent.com/BrainDead111/Strudel-Audio-Samples-/main/75374__jobro__gta4-clap.wav',
+  flexatone: 'https://raw.githubusercontent.com/BrainDead111/Strudel-Audio-Samples-/main/840693__modusmogulus__saunatone-perc-01a-improvised-flexatone.wav'
+})
 
+  
